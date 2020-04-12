@@ -1,5 +1,3 @@
-# Real-Time-Face-Recognition-using-OpenCV
-Real Time Face Recognition Using OpenCV
 <!DOCTYPE html>
 <html>
 <head>
@@ -21,6 +19,7 @@ Real Time Face Recognition Using OpenCV
 	<h3>*****Special Note*****</h3>
 	<li>If any one face this problem "AttributeError: module 'cv2.cv2' has no attribute 'face'" Then Open your Python Command Shell and type 
 	"pip install opencv-contrib-python --upgrade"</li>
+	<li>If you are using a external webcam not a laptop webcam then use "cam = cv2.VideoCapture(1)" instead of "cam = cv2.VideoCapture(0)"</li>
 
 
 </body>
