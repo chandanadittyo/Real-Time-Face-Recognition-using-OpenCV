@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Real-Time-Face-Recognition-using-OpenCV</title>
+
 </head>
 <body>
 	<h2>/<h2>
