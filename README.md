@@ -5,7 +5,7 @@
 
 </head>
 <body>
-	<h2>/<h2>
+	<h2><h2>
 	<h3>Package Needed</h3>
 	<li>OpenCV</li>
 	<li>Numpy</li>
